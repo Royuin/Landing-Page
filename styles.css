@@ -23,3 +23,8 @@ h1 {
   font-weight: bolder;
   color: #f9faf8;
 }
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+}
