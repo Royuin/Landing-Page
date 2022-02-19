@@ -6,3 +6,9 @@
 header, footer {
   background-color: #1f2937;
 }
+
+.hero-header {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
