@@ -5,6 +5,12 @@
 
 header, footer {
   background-color: #1f2937;
+  
+}
+
+header {
+  color: #e5e7eb;
+  font-size: 18px;
 }
 
 h1 {
