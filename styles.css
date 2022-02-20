@@ -24,6 +24,21 @@ h1 {
   color: #f9faf8;
 }
 
+.info {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+
+
 button {
   background-color: #3882f6;
   color: #f9faf8;
