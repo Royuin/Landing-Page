@@ -13,10 +13,12 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 30px;
 }
 
 ul {
   list-style-type: none;
+  display: flex;
 }
 
 header, footer {
