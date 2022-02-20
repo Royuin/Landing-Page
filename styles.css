@@ -6,6 +6,7 @@
 body {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
 }
 
 header, footer {
@@ -61,4 +62,8 @@ button {
 
 .copyright {
   color: #e5e7eb;
+}
+
+footer {
+  margin-top: auto;
 }
