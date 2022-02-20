@@ -9,6 +9,15 @@ body {
   min-height: 100vh;
 }
 
+nav {
+  display: flex;
+  
+}
+
+ul {
+  list-style-type: none;
+}
+
 header, footer {
   background-color: #1f2937;
   
