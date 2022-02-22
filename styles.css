@@ -24,7 +24,6 @@ ul {
 }
 
 
-
 header, footer {
   background-color: #1f2937;
   
@@ -46,6 +45,8 @@ h1 {
   font-weight: bolder;
   color: #f9faf8;
 }
+
+
 
 /* INFORMATION */
 
@@ -99,3 +100,8 @@ footer {
 .copyright {
   color: #e5e7eb;
 }
+
+/* BUTTONS */
+
+
+/* LINKS */
