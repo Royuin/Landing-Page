@@ -103,5 +103,15 @@ footer {
 
 /* BUTTONS */
 
+button {
+  padding: 5px 18px;
+  border-radius: 8px;
+  border-style: none;
+}
+
+.call-to-action-button {
+  border-color:  #f9faf8;
+  border-style: solid;
+}
 
 /* LINKS */
