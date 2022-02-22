@@ -33,6 +33,7 @@ header, footer {
 header {
   color: #e5e7eb;
   font-size: 18px;
+  flex: 1 1 0;
 }
 
 h1 {
@@ -48,6 +49,10 @@ h1 {
 
 /* INFORMATION */
 
+.information-section {
+  flex: 1 1 0;
+}
+
 .info {
   font-size: 36px;
   font-weight: bolder;
@@ -61,12 +66,14 @@ h1 {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
+  flex: .75 1 0;
 }
 
 /* CALL TO ACTION */
 
 .call-to-action {
   background-color: #3882f6;
+  flex: .5 1 0;
 }
 
 h3 {
@@ -86,6 +93,7 @@ button {
 
 footer {
   margin-top: auto;
+  padding: 1.5rem;
 }
 
 .copyright {
