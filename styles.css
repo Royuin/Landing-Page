@@ -6,7 +6,7 @@
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100vh; 
 }
 
 /* HEADER */
@@ -21,8 +21,20 @@ nav {
 ul {
   list-style-type: none;
   display: flex;
+  gap: 2em;
 }
 
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto 16em;
+}
+  
+.header-image {
+  background-color: #666;
+  padding: 60px 120px;
+}
 
 header, footer {
   background-color: #1f2937;
@@ -32,7 +44,7 @@ header, footer {
 header {
   color: #e5e7eb;
   font-size: 18px;
-  flex: 1 1 0;
+  flex: 1 1 auto;  
 }
 
 h1 {
@@ -51,7 +63,7 @@ h1 {
 /* INFORMATION */
 
 .information-section {
-  flex: 1 1 0;
+  flex: 1 1 auto;
 }
 
 .info {
@@ -67,14 +79,14 @@ h1 {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
-  flex: .75 1 0;
+  flex: .75 1 auto;
 }
 
 /* CALL TO ACTION */
 
 .call-to-action {
   background-color: #3882f6;
-  flex: .5 1 0;
+  flex: .5 1 auto;
 }
 
 h3 {
