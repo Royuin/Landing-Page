@@ -70,6 +70,9 @@ h1 {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
+  display: flex;
+  justify-content: center;
+  margin-top: 1em
 }
 
 /* QUOTE */
