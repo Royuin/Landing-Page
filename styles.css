@@ -83,7 +83,17 @@ h1 {
   font-style: italic;
   color: #1f2937;
   flex: .75 1 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
+
+.quote {
+  margin: 2em 5em;
+}
+
+
 
 /* CALL TO ACTION */
 
