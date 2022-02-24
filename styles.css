@@ -124,6 +124,10 @@ h1 {
 .call-to-action {
   background-color: #3882f6;
   flex: .5 1 auto;
+  padding: 3em;
+  
+  margin: 5em 18em;
+  border-radius: 8px;
 }
 
 h3 {
