@@ -7,6 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh; 
+  font-family: 'Roboto', sans-serif;
 }
 
 /* HEADER */
@@ -64,19 +65,25 @@ h1 {
 
 .information-section {
   flex: 1 1 auto;
+  text-align: center;
 }
 
 .info {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
-  display: flex;
-  justify-content: center;
   margin-top: 1em
 }
 
-.cards {
+.container {
   display: flex;
+  justify-content: center;
+  gap: 5em;
+  margin-top: 2em;
+}
+
+.card {
+  max-width: 125px;
 }
 
 .info-image {
@@ -84,6 +91,7 @@ h1 {
   width: 125px;
   height: 125px;
   border-radius: 8px;
+  margin-bottom: .5em;
 }
 
 /* QUOTE */
