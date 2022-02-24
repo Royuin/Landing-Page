@@ -30,6 +30,7 @@ ul {
   justify-content: space-around;
   align-items: center;
   margin: auto 16em;
+  gap: 5px;
 }
   
 .header-image {
