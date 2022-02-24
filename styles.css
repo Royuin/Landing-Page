@@ -186,3 +186,7 @@ a:link {
   text-decoration: none;
   color: #f9faf8;
 }
+
+a:visited {
+  color: #f9faf8;
+}
