@@ -130,8 +130,19 @@ h1 {
   border-radius: 8px;
 }
 
+.cta-box {
+  display: flex;
+  justify-content: space-around;
+}
+
 h3 {
   color: #f9faf8;
+  margin: left;
+}
+
+.cta-text {
+  display: flex;
+  flex-direction: column;
 }
 
 .sign-up-text {
@@ -157,7 +168,7 @@ footer {
 /* BUTTONS */
 
 button {
-  padding: 5px 18px;
+  padding: 5px 30px;
   border-radius: 8px;
   border-style: none;
 }
