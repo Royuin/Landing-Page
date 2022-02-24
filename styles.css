@@ -181,3 +181,8 @@ button {
 }
 
 /* LINKS */
+
+a:link {
+  text-decoration: none;
+  color: #f9faf8;
+}
