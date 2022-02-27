@@ -118,6 +118,8 @@ h1 {
 
 .quote-author {
   margin-left: 20em;
+  font-weight: bolder;
+  font-size: smaller;
 }
 
 /* CALL TO ACTION */
