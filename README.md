@@ -1,2 +1,1 @@
-# Landing-Page
-A landing page that is not for a particular business but has a layout that could be filled in. 
+A base template for any business that could be filled in.
