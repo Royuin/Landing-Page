@@ -6,8 +6,8 @@
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; 
-  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
 }
 
 /* HEADER */
@@ -32,21 +32,21 @@ ul {
   margin: 1em 16em;
   gap: 5px;
 }
-  
+
 .header-image {
   background-color: #666;
-  padding: 60px 120px;
+  padding: 7em 14em;
 }
 
-header, footer {
+header,
+footer {
   background-color: #1f2937;
-  
 }
 
 header {
   color: #e5e7eb;
   font-size: 18px;
-  flex: 1 1 auto;  
+  flex: 1 1 auto;
   padding-bottom: 5em;
 }
 
@@ -61,8 +61,6 @@ h1 {
   color: #f9faf8;
 }
 
-
-
 /* INFORMATION */
 
 .information-section {
@@ -75,7 +73,7 @@ h1 {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
-  margin-top: 1em
+  margin-top: 1em;
 }
 
 .container {
@@ -94,7 +92,7 @@ h1 {
   width: 125px;
   height: 125px;
   border-radius: 8px;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 /* QUOTE */
@@ -104,7 +102,7 @@ h1 {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
-  flex: .75 1 auto;
+  flex: 0.75 1 auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -126,9 +124,9 @@ h1 {
 
 .call-to-action {
   background-color: #3882f6;
-  flex: .5 1 auto;
+  flex: 0.5 1 auto;
   padding: 3em;
-  
+
   margin: 5em 18em;
   border-radius: 8px;
 }
@@ -178,7 +176,7 @@ button {
 }
 
 .call-to-action-button {
-  border-color:  #f9faf8;
+  border-color: #f9faf8;
   border-style: solid;
 }
 
