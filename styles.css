@@ -89,7 +89,7 @@ h1 {
 }
 
 .info-image {
-  border: 3px solid #3882f6;
+  border: 3px solid #9f2b68;
   width: 125px;
   height: 125px;
   border-radius: 8px;
@@ -124,7 +124,7 @@ h1 {
 /* CALL TO ACTION */
 
 .call-to-action {
-  background-color: #3882f6;
+  background-color: #9f2b68;
   flex: 0.5 1 auto;
   padding: 3em;
 
@@ -152,7 +152,7 @@ h3 {
 }
 
 button {
-  background-color: #3882f6;
+  background-color: #9f2b68;
   color: #f9faf8;
 }
 
