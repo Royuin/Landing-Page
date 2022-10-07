@@ -51,6 +51,9 @@ header {
   padding-bottom: 5em;
 }
 
+.header-img {
+  max-width: 250px;
+}
 h1 {
   font-size: 1.8rem;
   color: #f9faf8;
