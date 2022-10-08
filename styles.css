@@ -53,6 +53,8 @@ header {
 
 .header-img {
   max-width: 250px;
+  position: relative;
+  right: 10rem;
 }
 
 .hero-header {
