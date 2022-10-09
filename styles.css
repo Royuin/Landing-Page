@@ -7,7 +7,12 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  font-family: "Roboto", sans-serif;
+  font-family: my-font;
+}
+
+@font-face {
+  font-family: my-font;
+  src: url(/fonts/JosefinSans-Regular.ttf);
 }
 
 /* HEADER */
