@@ -38,7 +38,7 @@ ul {
   gap: 5rem;
 }
 
-.img {
+.header-img {
   width: clamp(225px, 100%, 700px);
   /* min-width: 250px;
   min-height: auto; */
