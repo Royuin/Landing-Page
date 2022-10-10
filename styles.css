@@ -39,7 +39,6 @@ ul {
 }
 
 .img {
-  padding: 7rem 14rem;
   width: clamp(225px, 100%, 700px);
   /* min-width: 250px;
   min-height: auto; */
