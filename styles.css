@@ -39,6 +39,16 @@ ul {
   gap: 5rem;
 }
 
+.hero-header {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.header-logo {
+  max-width: 250px;
+}
+
 .header-img {
   width: clamp(225px, 100%, 700px);
 }
@@ -53,16 +63,6 @@ header {
   font-size: 1.2rem;
   flex: 1 1 auto;
   padding-bottom: 5em;
-}
-
-.header-logo {
-  max-width: 250px;
-}
-
-.hero-header {
-  font-size: 3.5rem;
-  font-weight: bolder;
-  color: #f9faf8;
 }
 
 /* INFORMATION */
