@@ -180,6 +180,7 @@ button {
   padding: 5px 30px;
   border-radius: 8px;
   border-style: none;
+  font-weight: bold;
 }
 
 .call-to-action-button {
