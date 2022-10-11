@@ -41,13 +41,10 @@ ul {
 
 .header-img {
   width: clamp(225px, 100%, 700px);
-  /* min-width: 250px;
-  min-height: auto; */
 }
 
 header,
 footer {
-  /* background-color: #1f2937; */
   background-color: #451f1f;
 }
 
