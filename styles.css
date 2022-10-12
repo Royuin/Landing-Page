@@ -184,6 +184,10 @@ button {
 
 /* LINKS */
 
+a {
+  font-size: max(1.3rem, 1.2vw);
+}
+
 a:link {
   text-decoration: none;
   color: #f9faf8;
