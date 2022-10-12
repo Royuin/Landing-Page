@@ -154,11 +154,6 @@ h3 {
   color: #e5e7eb;
 }
 
-button {
-  background-color: #9f2b68;
-  color: #f9faf8;
-}
-
 /* FOOTER */
 
 footer {
@@ -178,6 +173,8 @@ button {
   border-radius: 8px;
   border-style: none;
   font-weight: bold;
+  background-color: #9f2b68;
+  color: #f9faf8;
 }
 
 .call-to-action-button {
