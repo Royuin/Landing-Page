@@ -182,6 +182,11 @@ button {
   border-style: solid;
 }
 
+button:hover {
+  background-color: #ffeb77;
+  color: #451f1f;
+}
+
 /* LINKS */
 
 a {
