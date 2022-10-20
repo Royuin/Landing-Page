@@ -80,7 +80,7 @@ header {
 .info {
   font-size: 36px;
   font-weight: bolder;
-  color: #451f1f;
+  color: var(--dark-red);
   margin-top: 1em;
 }
 
@@ -188,7 +188,7 @@ button {
 
 button:hover {
   background-color: #ffeb77;
-  color: #451f1f;
+  color: var(--dark-red);
 }
 
 /* LINKS */
