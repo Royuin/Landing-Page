@@ -103,6 +103,7 @@ header {
   height: 125px;
   border-radius: 8px;
   margin-bottom: 0.5em;
+  box-shadow: 3px 3px 15px;
 }
 
 /* QUOTE */
