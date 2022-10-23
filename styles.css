@@ -111,7 +111,7 @@ header {
   background-color: #e5e7eb;
   font-size: 2rem;
   font-style: italic;
-  color: #1f2937;
+  color: var(--dark-red);
   flex: 0.75 1 auto;
   display: flex;
   justify-content: center;
