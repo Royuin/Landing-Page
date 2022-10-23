@@ -122,6 +122,7 @@ header {
 
 .quote {
   margin: auto 11em;
+  text-shadow: 10px 10px 8px;
 }
 
 .quote-author {
