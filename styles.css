@@ -99,7 +99,7 @@ header {
 }
 
 .info-image {
-  border: 3px solid #9f2b68;
+  border: 3px solid var(--pink);
   width: 125px;
   height: 125px;
   border-radius: 8px;
@@ -136,7 +136,7 @@ header {
 /* CALL TO ACTION */
 
 .call-to-action {
-  background-color: #9f2b68;
+  background-color: var(--pink);
   flex: 0.5 1 auto;
   padding: 3em;
 
@@ -183,7 +183,7 @@ button {
   border-radius: 8px;
   border-style: none;
   font-weight: bold;
-  background-color: #9f2b68;
+  background-color: var(--pink);
   color: #f9faf8;
 }
 
