@@ -67,7 +67,7 @@ footer {
 }
 
 header {
-  color: #e5e7eb;
+  color: var(--light-grey);
   font-size: 1.2rem;
   flex: 1 1 auto;
   padding-bottom: 5em;
@@ -111,7 +111,7 @@ header {
 /* QUOTE */
 
 .quote-section {
-  background-color: #e5e7eb;
+  background-color: var(--light-grey);
   font-size: 2rem;
   font-style: italic;
   color: var(--dark-red);
@@ -162,7 +162,7 @@ h3 {
 }
 
 .sign-up-text {
-  color: #e5e7eb;
+  color: var(--light-grey);
 }
 
 /* FOOTER */
@@ -173,7 +173,7 @@ footer {
 }
 
 .copyright {
-  color: #e5e7eb;
+  color: var(--light-grey);
   text-align: center;
 }
 
