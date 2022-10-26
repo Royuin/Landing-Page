@@ -63,7 +63,7 @@ ul {
 
 header,
 footer {
-  background-color: #451f1f;
+  background-color: var(--dark-red);
 }
 
 header {
