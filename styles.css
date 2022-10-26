@@ -194,7 +194,7 @@ button {
 }
 
 button:hover {
-  background-color: #ffeb77;
+  background-color: var(--gold);
   color: var(--dark-red);
 }
 
@@ -214,6 +214,6 @@ a:visited {
 }
 
 a:hover {
-  color: #ffeb77;
+  color: var(--gold);
   border-bottom: 3px double;
 }
