@@ -137,16 +137,15 @@ header {
 /* CALL TO ACTION */
 
 .call-to-action {
-  background-color: var(--pink);
-  flex: 0.5 1 auto;
-  padding: 3em;
-
-  margin: 5em 18em;
-  border-radius: 8px;
-  box-shadow: 7px 7px 15px;
 }
 
 .cta-box {
+  background-color: var(--pink);
+  flex: 0.5 1 auto;
+  padding: 3em;
+  margin: 5em 18em;
+  border-radius: 8px;
+  box-shadow: 7px 7px 15px;
   display: flex;
   justify-content: space-around;
 }
