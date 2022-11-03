@@ -138,6 +138,7 @@ header {
 
 .call-to-action {
   background-color: var(--off-white);
+  background-image: url("images/wine-barrels.jpg");
 }
 
 .cta-box {
