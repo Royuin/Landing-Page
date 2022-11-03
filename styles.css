@@ -140,6 +140,7 @@ header {
   background-color: var(--off-white);
   background-image: url("images/wine-barrels.jpg");
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .cta-box {
