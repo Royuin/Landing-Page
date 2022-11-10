@@ -109,6 +109,10 @@ header {
   box-shadow: 3px 3px 15px;
 }
 
+.red-wine-card {
+  background-image: url("images/red-wine.jpg");
+}
+
 /* QUOTE */
 
 .quote-section {
