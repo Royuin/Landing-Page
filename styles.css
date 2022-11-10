@@ -111,6 +111,7 @@ header {
 
 .red-wine-card {
   background-image: url("images/red-wine.jpg");
+  background-size: cover;
 }
 
 /* QUOTE */
