@@ -58,7 +58,7 @@ ul {
 }
 
 .header-img {
-  width: clamp(50vw, 100%, 700px);
+  width: clamp(225px, 50vw, 700px);
   border-radius: 10px;
 }
 
