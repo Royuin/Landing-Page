@@ -121,6 +121,12 @@ header {
   background-position: center;
 }
 
+.rose-wine-card {
+  background-image: url("images/rose-wine.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 /* QUOTE */
 
 .quote-section {
