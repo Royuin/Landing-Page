@@ -127,6 +127,12 @@ header {
   background-position: center;
 }
 
+.sparkling-wine-card {
+  background-image: url("images/sparkling-wine.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 /* QUOTE */
 
 .quote-section {
